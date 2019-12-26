@@ -1,0 +1,37 @@
+D .
+D images
+D images/endDialog
+R EFC3A78F bg.png
+R D673C3F7 bg2.png
+D images/gameBox
+P EF7A6236 arL.png
+P 7AC73C04 arR.png
+P FC799CB4 b.png
+P BE5D56F9 ball.png
+P 4ECCFC2A beer.png
+P 1DDE23BA c.png
+P 70FEC9C8 k.png
+R DE3DC38B q.png
+R 17C1F38C rule.png
+D images/indexBox
+P 19E83069 b1.png
+P FE920903 b2.png
+R 2E2E5777 bg.jpg
+R 83284414 t1.png
+R D44FD7E5 t2.png
+R 99354E9A t3.png
+D images/loadBox
+P 164FA3E8 b.png
+R 3536BD95 b1.png
+R 270E1E50 b2.png
+R 7B803116 bg.jpg
+R E4689AEF t1.png
+R 35E91239 t2.png
+R 0183D293 t3.png
+P F3ACB6EE w.png
+D images/public
+P 97B38B5E logo.png
+D images/rankDialog
+R 1EA7695B bg.png
+R 44818049 f.png
+R 301E15F4 mask.png
