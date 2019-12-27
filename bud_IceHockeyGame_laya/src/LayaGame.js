@@ -640,9 +640,11 @@ var iceGame = function () {
 
 }
 
-var a = new iceGame();
-a.init({
-    load:function(){
-        a.showIndexBox();
-    }
-});
+// var a = new iceGame();
+// a.init({
+//     load:function(){
+//         a.showIndexBox();
+//     }
+// });
+// TestMatter.init()
+TestBox2d.init()
